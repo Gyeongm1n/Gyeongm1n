@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Gyeongm1n's github stats](https://github-readme-stats.vercel.app/api?username=Gyeongm1n&show_icons=true)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Gyeongm1n&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+[![Gyeongm1n's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyeongm1n&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)]
